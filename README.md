@@ -1,5 +1,7 @@
 
-<img alt="Simply Code" src="./assets/code.jpg" align="center"/>
+<p align="center>
+<img alt="Simply Code" width="700" height="400" src="./assets/code.jpg" align="center"/>
+</p>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Animesh Kumar Singh</h2>
 
@@ -15,7 +17,9 @@
 \
 📄 &nbsp;Have a look at my [Portpolio](https://animesh-kumar-singh.herokuapp.com) for more details about me. I'm open to feedback and suggestions!
 
+<p align="center>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
+</p>
 
 ### 🛠 &nbsp;Tech Stack and Tools
 
