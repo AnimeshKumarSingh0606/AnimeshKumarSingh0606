@@ -52,7 +52,7 @@
 <p align="center">
   <a href="https://www.codechef.com/users/animesh0606"><img src="https://img.shields.io/badge/-Codechef-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
   <br/>
-<a href="https://animesh-kumar-singh.herokuapp.com"><img src="https://img.shields.io/badge/-My%20Website-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://animesh-kumar-singh-portfolio.web.app/"><img src="https://img.shields.io/badge/-My%20Website-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
   <br/>
 <a href="https://in.linkedin.com/public-profile/in/animesh-kumar-singh-01b1501b9?challengeId=AQH2xG6aSWc1vgAAAXfcvO6rTprpXNCMsaVume5VXCjpAhFSoM8ffNrUOTV__DnPjhb2765i1LvErRIwt3Uq30qAQRM7ZIWKuA&submissionId=a7d559d1-f133-6716-51eb-77ab12a71d43"><img src="https://img.shields.io/badge/-Animesh%20Kumar%20Singh-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <br/>
